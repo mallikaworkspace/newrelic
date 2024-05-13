@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "flowing-curtain",
+    "version": "0.1.1",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "17cf1f02-6bfb-4a3f-871e-9cbb354c98d7"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "recharts": "^2.12.7"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
